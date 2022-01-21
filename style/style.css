@@ -1,0 +1,169 @@
+@font-face {
+    font-family: "Roboto-Medium";
+    src: url("../fonts/Roboto-Medium.ttf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Roboto-Regular";
+    src: url("../fonts/Roboto-Regular.ttf");
+    font-weight: 400;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+.fix-size {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+header {
+    height: 700px;
+    background: #EBEBEB;
+}
+
+li {
+    display: inline;
+}
+
+.nav {
+    padding-top: 79px;
+}
+
+.nav a {
+    font-family:"Roboto-Regular";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+    text-decoration: none; 
+    margin-right: 39px;
+    color: black;
+}
+
+a.first {
+    color: #500E0A;
+    font-family:"Roboto-Medium";
+    font-weight: 500;
+}
+
+h1 {
+    font-family:"Roboto-Medium";
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 79px;
+    margin-top: 157px;
+}
+
+.text {
+    width: 540px;
+    margin-top: 60px;
+}
+
+.button {
+    width: 228px;
+    height: 62px;
+    margin-top: 65px;
+    background: #500E0A;
+    border: none;
+    border-radius: 7px;
+    font-family: "Roboto-Regular";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+
+.h2 {
+    margin-top: 112px;
+}
+
+.style {
+    font-family: "Roboto-Medium";
+    font-weight: 500; 
+    text-align: center;
+    font-size: 32px;
+    line-height: 37px
+}
+
+.text2 {   
+    margin-top: 50px;
+    margin-bottom: 57px;
+    width: 540px;
+    margin-left: 290px;
+    text-align: center;
+}
+
+.info_style {
+    font-family: "Roboto-Regular";
+    font-weight: 400; 
+    font-size: 16px;
+    line-height: 26px;  
+    color: #727272;
+}
+
+.container {
+    background: #500E0A;
+    height: 250px; 
+    margin-top: 100px;  
+}
+
+.card {
+    display: inline-block;
+    margin-top: 100px;
+    margin-right: 60px;
+}
+
+.card_info {
+    display: inline-block;
+    color: #FFFFFF;
+}
+.number {
+    font-family: "Roboto-Medium";
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+}
+
+.project {
+    font-family: "Roboto-Regular";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.h3 {
+    margin-top: 100px;
+}
+
+
+.rights {
+    font-family:"Roboto-Regular";
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    margin-top: 20px;
+    color: #FFFFFF;
+}
+
+
+.h4 {
+    font-family: "Roboto-Medium";
+    font-weight: 500;
+    padding-top: 30px;
+    font-size: 21px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+footer {
+    height: 151px;
+    margin-top: 100px;
+    background: #500E0A;
+}
+
+
